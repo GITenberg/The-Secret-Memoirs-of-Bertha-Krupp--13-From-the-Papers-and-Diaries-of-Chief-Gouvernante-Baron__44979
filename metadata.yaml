@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '33735'
     url: http://www.gutenberg.org/2009/agents/33735
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44979#The-Secret-Memoirs-of-Bertha-Krupp--13-From-the-Papers-and-Diaries-of-Chief-Gouvernante-Baron_
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2014-02-22'
 gutenberg_type: Text
