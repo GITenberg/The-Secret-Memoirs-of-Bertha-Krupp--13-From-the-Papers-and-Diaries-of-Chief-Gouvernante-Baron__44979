@@ -1,0 +1,35 @@
+_repo: The-Secret-Memoirs-of-Bertha-Krupp--13-From-the-Papers-and-Diaries-of-Chief-Gouvernante-Baron__44979
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44979-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Fischer, Henry W. (Henry William)
+    aliases:
+    - Fischer, Henry William Hubert
+    - Eppinghoven, Ursula, Grafin von
+    - Eppinghoven, Ursula, Gräfin von
+    - Fisher, Henry W. (Henry William)
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '33735'
+    url: http://www.gutenberg.org/2009/agents/33735
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2014-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44979'
+  lccn: '16003765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'William II, German Emperor, 1859-1941 -- Fiction'
+- !lcsh 'Krupp, Bertha, 1886-1957 -- Fiction'
+title: "The Secret Memoirs of Bertha Krupp\r\nFrom the Papers and Diaries of Chief\
+  \ Gouvernante Baroness D'Alteville"
+url: http://www.gutenberg.org/ebooks/44979
